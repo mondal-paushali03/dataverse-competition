@@ -99,7 +99,7 @@ Myntra’s revenue is strongly **seasonal**, driven by end-of-year festive shopp
 
 For queries or collaboration, feel free to connect:  
 
-- **Name**: Mridul Krishan Chawla  
+- **Name**: Paushali Mondal 
 - **Interests**: Data Analytics | AI/ML | Business Analytics  
 - 📧 [mondal.paushali384@gmail.com]  
 - 🌐 [[LinkedIn](https://www.linkedin.com/in/paushali-mondal-483ba4250/)]  
